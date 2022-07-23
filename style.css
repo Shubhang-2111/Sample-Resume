@@ -1,0 +1,51 @@
+html{
+   background-color: rgb(220, 211, 197);
+}
+.mainbody{
+    /* border: 2px solid black; */
+    display:inline-block;
+}
+.head{
+    margin: 49px 21px 16px 216px;
+    background-color: lightgray;
+    height: 205px;
+    width: 800px;
+    display:flex;
+    flex-direction:row;
+}
+
+#profilepic{
+    height: 205px;
+    width: 223px;
+}
+#intro{
+   margin:39px 6px 6px 44px;
+}
+.head2{
+    background-color: white;
+    margin: -20px 21px 16px 216px;
+    width: 800px;
+    display:flex;
+    flex-direction:row;
+}
+ .subhead21{
+    background-color: lightgray;
+    width:212px;
+} 
+.content21{
+    margin-left:16px;
+}
+.subhead22{
+    width:588px;
+    padding-left: 19px;
+    padding-right: 29px;
+}
+#name{
+    margin-right: 22px;
+    color: white;
+    text-align: center;
+    background-color: #4c4242;
+    /* padding-left: 26px; */
+    margin-left: 216px;
+    margin-top: -15px;
+}
